@@ -19,7 +19,7 @@ This project implements a RESTful JWKS server in Go, designed to provide public 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jwks-server.git
+   git clone https://github.com/mathiaseth/jwks-server.git
    cd jwks-server
 
 2. Run the server:
