@@ -28,11 +28,12 @@ This project implements a RESTful JWKS server in Go, designed to provide public 
 2. Run the server:
   go run main.go
 
-3. Access the JWKS endpoint at http://localhost:8080/.well-known/jwks.json and the authentication endpoint at http://localhost:8080/auth
+3. Access the JWKS endpoint at ['http://localhost:8080/.well-known/jwks.json'](#http://localhost:8080/.well-known/jwks.json) and the authentication endpoint at ['http://localhost:8080/auth'](#http://localhost:8080/auth)
 
 ## Testing
 
 - To run the tests and check coverage:
+  ```bash
   go test -coverprofile=coverage.out
   go tool cover -html=coverage.out -o coverage.html
-- Open coverage.html in your browser to view the coverage report.
+- Open ['coverage.html'](#coverage.html) in your browser to view the coverage report.
