@@ -38,5 +38,5 @@ This project implements a RESTful JWKS server in Go, designed to provide public 
 
 ## Screenshots
 
-![Test Client Screenshot](screenshots/Test_Client.png)
-![Test Suite Screenshot](screenshots/Test_Suite.png)
+[Test Client Screenshot](screenshots/Test_Client.png)  
+[Test Suite Screenshot](screenshots/Test_Suite.png)
