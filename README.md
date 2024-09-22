@@ -35,3 +35,8 @@ This project implements a RESTful JWKS server in Go, designed to provide public 
   go test -coverprofile=coverage.out
   go tool cover -html=coverage.out -o coverage.html
 - Open [`coverage.html`](#coverage.html) in your browser to view the coverage report.
+
+## Screenshots
+
+![Test Client Screenshot](screenshots/Test_Client.png)
+![Test Suite Screenshot](screenshots/Test_Suite.png)
