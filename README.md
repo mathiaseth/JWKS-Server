@@ -23,9 +23,10 @@ This project implements a RESTful JWKS server in Go, designed to provide public 
    cd jwks-server
 
 2. Run the server:
+   ```bash
   go run main.go
 
-3. Access the JWKS endpoint at [`http://localhost:8080/.well-known/jwks.json`](#http://localhost:8080/.well-known/jwks.json) and the authentication endpoint at [`http://localhost:8080/auth`](#http://localhost:8080/auth)
+4. Access the JWKS endpoint at [`http://localhost:8080/.well-known/jwks.json`](#http://localhost:8080/.well-known/jwks.json) and the authentication endpoint at [`http://localhost:8080/auth`](#http://localhost:8080/auth)
 
 ## Testing
 
